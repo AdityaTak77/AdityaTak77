@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Fire EXtinguisher Mechanishm**
+- 🔭 I’m currently working on **Galaxy Zoo - The Galaxy Challenge**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSAa and Gen AI**
 
 - 📫 How to reach me **adityatak7733@gmail.com**
 
