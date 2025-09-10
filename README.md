@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Galaxy Zoo - The Galaxy Challenge**
 
-- 🌱 I’m currently learning **DSAa and Gen AI**
+- 🌱 I’m currently learning **DSA and Gen AI**
 
 - 📫 How to reach me **adityatak7733@gmail.com**
 
