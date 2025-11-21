@@ -23,36 +23,123 @@
   </a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="40" height="40"/>
-  </a>
-  <a href="https://canvasjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="CanvasJS Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop Logo" width="40" height="40"/>
-  </a>
+
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="Python Logo" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD Logo" width="40" height="40"/>
+
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+         alt="C++ Logo" width="40" height="40"/>
   </a>
+
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
+         alt="Rust Logo" width="40" height="40"/>
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" 
+         alt="TensorFlow Logo" width="40" height="40"/>
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" 
+         alt="NumPy Logo" width="40" height="40"/>
+  </a>
+
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" 
+         alt="OpenCV Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Qiskit -->
+  <a href="https://qiskit.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Qiskit-Logo.svg" 
+         alt="Qiskit Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" 
+         alt="HuggingFace Logo" width="40" height="40"/>
+  </a>
+
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
+         alt="LangChain Logo" width="40" height="40"/>
+  </a>
+
+  <!-- FAISS -->
+  <a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/faiss_logo.png" 
+         alt="FAISS Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" 
+         alt="Flask Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+         alt="Docker Logo" width="40" height="40"/>
+  </a>
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" 
+         alt="AWS Logo" width="40" height="40"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+         alt="MySQL Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" 
+         alt="Streamlit Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+         alt="Git Logo" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+         alt="GitHub Logo" width="40" height="40"/>
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+         alt="VS Code Logo" width="40" height="40"/>
+  </a>
+
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/652070?s=200&v=4" 
+         alt="Google Colab Logo" width="40" height="40"/>
+  </a>
+
 </p>
 
 
