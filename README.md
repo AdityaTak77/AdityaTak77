@@ -31,10 +31,10 @@
     <td width="50%" valign="top">
       <h2>⚡ Mission Status</h2>
       <br>
-      <b>🚧 Current Protocol:</b> Business Analyst @ SEW.ai <br>
+      <b>🚧 Current Protocol:</b> Business Analyst <br>
       <b>🔭 Research Target:</b> Hybrid Quantum-Classical Models <br>
       <b>🧠 Main Focus:</b> Multi-Agent Architectures & GenAI <br>
-      <b>📍 Base of Operations:</b> Noida, India <br>
+      <b>📍 Base of Operations:</b> Gurugram, India <br>
       <br>
       <blockquote>
         <i>"The best way to predict the future is to invent it."</i>
