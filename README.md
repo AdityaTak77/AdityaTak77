@@ -83,7 +83,6 @@
 </div>
 
 <br>
-
 <h2 align="center">🛸 Deployed Projects</h2>
 
 <table align="center">
@@ -116,8 +115,6 @@
 </table>
 
 <br>
-
-<h2 align="center">📊 Contribution Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTak77&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
