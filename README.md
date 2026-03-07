@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=280&section=header&text=Aditya%20Tak&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Quantum%20ML%20Explorer%20%7C%20AI%20Architect&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=280&section=header&text=Aditya%20Tak&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Quantum%20ML%20Explorer%20%7C%20AI%20Engineer&descAlignY=60&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -31,10 +31,10 @@
     <td width="50%" valign="top">
       <h2>⚡ Mission Status</h2>
       <br>
-      <b>🚧 Current Protocol:</b> Business Analyst @ SEW.ai <br>
+      <b>🚧 Current Protocol:</b> Business Analyst <br>
       <b>🔭 Research Target:</b> Hybrid Quantum-Classical Models <br>
       <b>🧠 Main Focus:</b> Multi-Agent Architectures & GenAI <br>
-      <b>📍 Base of Operations:</b> Noida, India <br>
+      <b>📍 Base of Operations:</b> Gurugram, India <br>
       <br>
       <blockquote>
         <i>"The best way to predict the future is to invent it."</i>
