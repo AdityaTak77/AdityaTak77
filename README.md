@@ -1,153 +1,155 @@
-<h1 align="center">Hi 👋, I'm Aditya Tak</h1>
-<h3 align="center">AI Eningeer | Quantum ML Explorer </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Tak+👋;AI+Engineer+%26+Quantum+Explorer;Building+Multi-Agent+Systems;Cracking+Galaxy+Morphologies" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
+  <a href="https://github.com/AdityaTak77">
+    <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/adityatak7733/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adityatak7733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/thesleepyhead07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+ <b>Final Year B.Tech CSE | AI-ML Developer | Business Analyst Trainee</b>
+ <br>
+ I bridge the gap between <b>Quantum Mechanics</b> and <b>Generative AI</b>. Currently, I am working as a Business Analyst Trainee at <b>SEW.ai</b> while researching Hybrid Quantum-Classical models. My passion lies in engineering scalable <b>Multi-Agent Architectures</b> and optimizing ML pipelines for real-world impact.
+</p>
+
+<div align="center">
+  
+| 🔭 Current Work | 🌱 Learning | 👯 Looking to Collaborate On |
+| :--- | :--- | :--- |
+| **Galaxy Zoo (Quantum CNN)** & **AI Travel Agents** | **DSA, Rust & Advanced RAG** | **Open Source GenAI Projects** |
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>🔥 Specialized Tech:</b> <br>
+  <code>Qiskit</code> • <code>LangChain</code> • <code>Hugging Face</code> • <code>CrewAI</code> • <code>Gemini Flash 2.0</code> • <code>FAISS</code> • <code>Redis</code> • <code>Streamlit</code>
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>🌌 Galaxy Zoo Classification</b></td>
+        <td>Hybrid <b>Quantum-Classical (QCNN)</b> model to classify galaxy morphologies with high precision.</td>
+        <td><code>Qiskit</code> <code>TensorFlow</code> <code>Quantum ML</code></td>
+      </tr>
+      <tr>
+        <td><b>✈️ AI Travel Planner</b></td>
+        <td>Backend-only system using <b>Multi-Agent Architecture</b> (CrewAI) for personalized itinerary generation.</td>
+        <td><code>Python</code> <code>CrewAI</code> <code>Redis</code> <code>MCP</code></td>
+      </tr>
+      <tr>
+        <td><b>📄 Interview Buddy</b></td>
+        <td><b>RAG-based</b> resume analyzer bridging students and recruiters with 85% matching accuracy.</td>
+        <td><code>Gemini Flash 2.0</code> <code>LangChain</code> <code>FAISS</code></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityatak77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatak77&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatak77&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak graph" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
-
-
-- 🔭 I’m currently working on **Galaxy Zoo - The Galaxy Challenge**
-
-- 🌱 I’m currently learning **DSA and Gen AI agents**
-
-- 📫 How to reach me **adityatak7733@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adityatak7733/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya tak" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/thesleepyhead07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesleepyhead07" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="Python Logo" width="40" height="40"/>
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-         alt="C++ Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Rust -->
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
-         alt="Rust Logo" width="40" height="40"/>
-  </a>
-
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" 
-         alt="TensorFlow Logo" width="40" height="40"/>
-  </a>
-
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" 
-         alt="NumPy Logo" width="40" height="40"/>
-  </a>
-
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" 
-         alt="OpenCV Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Qiskit -->
-  <a href="https://qiskit.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Qiskit-Logo.svg" 
-         alt="Qiskit Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" 
-         alt="HuggingFace Logo" width="40" height="40"/>
-  </a>
-
-  <!-- LangChain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
-         alt="LangChain Logo" width="40" height="40"/>
-  </a>
-
-  <!-- FAISS -->
-  <a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/faiss_logo.png" 
-         alt="FAISS Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" 
-         alt="Flask Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-         alt="Docker Logo" width="40" height="40"/>
-  </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" 
-         alt="AWS Logo" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-         alt="MySQL Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" 
-         alt="Streamlit Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-         alt="Git Logo" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-         alt="GitHub Logo" width="40" height="40"/>
-  </a>
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-         alt="VS Code Logo" width="40" height="40"/>
-  </a>
-
-  <!-- Google Colab -->
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/652070?s=200&v=4" 
-         alt="Google Colab Logo" width="40" height="40"/>
-  </a>
-
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatak77&show_icons=true&locale=en&layout=compact" alt="adityatak77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatak77&show_icons=true&locale=en" alt="adityatak77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatak77&" alt="adityatak77" /></p>
