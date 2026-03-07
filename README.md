@@ -1,157 +1,134 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Tak+👋" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=280&section=header&text=Aditya%20Tak&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Quantum%20ML%20Explorer%20%7C%20AI%20Architect&descAlignY=60&descAlign=50"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Multi-Agent+Systems;Cracking+Galaxy+Morphologies;Exploring+Quantum+Realms;Architecting+Future+AI" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=VISITORS&color=ff0055&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityatak7733/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityatak7733@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AdityaTak77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/AdityaTak77?tab=repositories">
+    <img src="https://img.shields.io/badge/Featured_Project-SOURCE_CODE-success?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<br>
 
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
- <b>Final Year B.Tech CSE | AI-ML Developer | Business Analyst - Product Solution Engineer</b>
- <br>
- I bridge the gap between <b>Quantum Mechanics</b> and <b>Generative AI Agents</b>. Currently, I am working as a Business Analyst <b></b> while researching Hybrid Quantum-Classical models. My passion lies in engineering scalable <b>Multi-Agent Architectures</b> and optimizing ML pipelines for real-world impact.
-</p>
-
-<div align="center">
-  
-| 🔭 Current Work | 🌱 Learning | 👯 Looking to Collaborate On |
-| :--- | :--- | :--- |
-| **Galaxy Zoo (Quantum CNN)** | **Quantam Machine Learning, Agentic Ai and DSA** | **Open Source GenAI Projects** |
-
-</div>
-
----
-
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+    <td width="50%" valign="top">
+      <h2>⚡ Mission Status</h2>
+      <br>
+      <b>🚧 Current Protocol:</b> Business Analyst @ SEW.ai <br>
+      <b>🔭 Research Target:</b> Hybrid Quantum-Classical Models <br>
+      <b>🧠 Main Focus:</b> Multi-Agent Architectures & GenAI <br>
+      <b>📍 Base of Operations:</b> Noida, India <br>
+      <br>
+      <blockquote>
+        <i>"The best way to predict the future is to invent it."</i>
+      </blockquote>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+    <td width="50%" valign="center">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;"/>
+      </div>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <b>🔥 Specialized Tech:</b> <br>
-  <code>Qiskit</code> • <code>LangChain</code> • <code>Hugging Face</code> • <code>CrewAI</code> • <code>Gemini Flash 2.0</code> • <code>FAISS</code> • <code>Redis</code> • <code>Streamlit</code>
-</p>
+<br>
 
----
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🧪 Tech Arsenal</h2>
 
 <div align="center">
-  <table>
-    <thead align="center">
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Tech Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>🌌 Galaxy Zoo Classification</b></td>
-        <td>Hybrid <b>Quantum-Classical (QCNN)</b> model to classify galaxy morphologies with high precision.</td>
-        <td><code>Qiskit</code> <code>TensorFlow</code> <code>Quantum ML</code></td>
-      </tr>
-      <tr>
-        <td><b>✈️ AI Travel Planner</b></td>
-        <td>Backend-only system using <b>Multi-Agent Architecture</b> (CrewAI) for personalized itinerary generation.</td>
-        <td><code>Python</code> <code>CrewAI</code> <code>Redis</code> <code>MCP</code></td>
-      </tr>
-      <tr>
-        <td><b>📄 Interview Buddy</b></td>
-        <td><b>RAG-based</b> resume analyzer bridging students and recruiters with 85% matching accuracy.</td>
-        <td><code>Gemini Flash 2.0</code> <code>LangChain</code> <code>FAISS</code></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTak77&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/AI_&_Data_Science-FF0055?style=flat&logo=openai&logoColor=white" height="25" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Quantum_&_GenAI-00F0FF?style=flat&logo=atom&logoColor=white" height="25" />
+  <br>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Engineering_&_Tools-7B00FF?style=flat&logo=gears&logoColor=white" height="25" />
+  <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+</div>
+
+<br>
+
+<h2 align="center">🛸 Deployed Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🌌 Galaxy Zoo</h3>
+      <b>Quantum CNN Classifier</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Tech-Qiskit_%7C_TensorFlow-blue" />
+      <br><br>
+      Hybrid Quantum-Classical model classifying galaxy morphologies.
+    </td>
+    <td width="33%" align="center">
+      <h3>✈️ AI Travel Agent</h3>
+      <b>Multi-Agent System</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Tech-CrewAI_%7C_Redis-red" />
+      <br><br>
+      Backend system for personalized itinerary generation using MCP.
+    </td>
+    <td width="33%" align="center">
+      <h3>📄 Interview Buddy</h3>
+      <b>RAG Resume Analyzer</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Tech-Gemini_%7C_LangChain-yellow" />
+      <br><br>
+      AI bridge between students & recruiters with 85% match accuracy.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">📊 Data Stream</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTak77&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTak77&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTak77&theme=radical&hide_border=true&bg_color=0D1117" alt="streak graph" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=0D1117" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer Wave"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=100&section=footer"/>
+</div>
