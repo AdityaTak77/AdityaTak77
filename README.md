@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Tak</h1>
-<h3 align="center">AI / ML Developer | Quantum ML Explorer | Generative AI Enthusiast</h3>
+<h3 align="center">AI Eningeer | Quantum ML Explorer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="AdityaTak77" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="AdityaTak77 trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 
