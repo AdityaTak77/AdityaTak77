@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Tak+👋;AI+Engineer+%26+Quantum+Explorer;Building+Multi-Agent+Systems;Cracking+Galaxy+Morphologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Tak+👋" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,9 +23,9 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
- <b>Final Year B.Tech CSE | AI-ML Developer | Business Analyst Trainee</b>
+ <b>Final Year B.Tech CSE | AI-ML Developer | Business Analyst - Product Solution Engineer</b>
  <br>
- I bridge the gap between <b>Quantum Mechanics</b> and <b>Generative AI</b>. Currently, I am working as a Business Analyst Trainee at <b>SEW.ai</b> while researching Hybrid Quantum-Classical models. My passion lies in engineering scalable <b>Multi-Agent Architectures</b> and optimizing ML pipelines for real-world impact.
+ I bridge the gap between <b>Quantum Mechanics</b> and <b>Generative AI Agents</b>. Currently, I am working as a Business Analyst <b></b> while researching Hybrid Quantum-Classical models. My passion lies in engineering scalable <b>Multi-Agent Architectures</b> and optimizing ML pipelines for real-world impact.
 </p>
 
 <div align="center">
