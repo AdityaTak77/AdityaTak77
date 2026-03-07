@@ -3,18 +3,18 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/AdityaTak77">
-    <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/adityatak7733/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:adityatak7733@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/thesleepyhead07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/AdityaTak77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -138,18 +138,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityatak77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatak77&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTak77&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatak77&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTak77&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=0D1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=0D1117" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer Wave"/>
 </p>
