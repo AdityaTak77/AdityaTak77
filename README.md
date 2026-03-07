@@ -32,7 +32,7 @@
   
 | 🔭 Current Work | 🌱 Learning | 👯 Looking to Collaborate On |
 | :--- | :--- | :--- |
-| **Galaxy Zoo (Quantum CNN)** & **AI Travel Agents** | **DSA, Rust & Advanced RAG** | **Open Source GenAI Projects** |
+| **Galaxy Zoo (Quantum CNN)** | **Quantam Machine Learning, Agentic Ai and DSA** | **Open Source GenAI Projects** |
 
 </div>
 
