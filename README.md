@@ -82,8 +82,7 @@
   
 </div>
 
-<br>
-<h2 align="center">🛸 Deployed Projects</h2>
+<br><h2 align="center">🛸 Deployed Projects</h2>
 
 <table align="center">
   <tr>
@@ -118,6 +117,13 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTak77&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<h2 align="center">🗓️ 3D Contribution City</h2>
+<div align="center">
+  <img src="https://github.com/AdityaTak77/AdityaTak77/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar"/>
 </div>
 
 <br>
