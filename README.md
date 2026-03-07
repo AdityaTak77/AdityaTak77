@@ -116,15 +116,15 @@
 </table>
 
 <br>
-
 <h2 align="center">📊 Data Stream</h2>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" />
+  <a href="https://github.com/AdityaTak77">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTak77&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <a href="https://github.com/AdityaTak77">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTak77&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
   </a>
 </div>
 
@@ -134,9 +134,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AdityaTak77/AdityaTak77/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdityaTak77/AdityaTak77/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdityaTak77/AdityaTak77/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/AdityaTak77/AdityaTak77/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=100&section=footer"/>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=100&section=footer"/>
 </div>
