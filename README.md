@@ -117,25 +117,15 @@
 
 <br>
 
-<h2 align="center">📊 Data Stream</h2>
+<h2 align="center">📊 Contribution Activity</h2>
 
 <div align="center">
-  <a href="https://github.com/AdityaTak77">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaTak77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/AdityaTak77">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTak77&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTak77&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTak77&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdityaTak77/AdityaTak77/raw/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdityaTak77/AdityaTak77/raw/output/github-contribution-grid-snake.svg">
