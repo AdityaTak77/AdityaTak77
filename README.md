@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Tak</h1>
-<h3 align="center">A Passionate coder from India</h3>
+<h3 align="center">AI / ML Developer | Quantum ML Explorer | Generative AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityatak77&label=Profile%20views&color=0e75b6&style=flat" alt="adityatak77" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaTak77&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="AdityaTak77" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityatak77" alt="adityatak77" /></a> </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AdityaTak77&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="AdityaTak77 trophies"/>
+  </a>
+</p>
 
 
 - 🔭 I’m currently working on **Galaxy Zoo - The Galaxy Challenge**
