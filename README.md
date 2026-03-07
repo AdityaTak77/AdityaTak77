@@ -116,6 +116,7 @@
 </table>
 
 <br>
+
 <h2 align="center">📊 Data Stream</h2>
 
 <div align="center">
@@ -142,9 +143,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=100&section=footer"/>
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,255,255&height=100&section=footer"/>
 </div>
